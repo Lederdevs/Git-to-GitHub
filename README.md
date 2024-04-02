@@ -163,24 +163,8 @@
 <span> inicializa un repositorio nuevo de Git y comienza a supervisar el directorio existente. Este agrega una subcarpeta oculta dentro del directorio existente que hospeda la estructura de datos interna que se requiere para el control de versiones.</span>
 
 - Observa la imagen:
-  <img src="https://github.com/LederDev/Git-to-GitHub-/assets/162763730/7c889976-6030-4f25-84f1-58b17109d942">
+  <img src="https://github.com/Lederdevs/Git-to-GitHub/assets/165498615/9ad1c16a-a57b-46a1-b655-b24311196986">
 </div>
-<div>
-  <H2>Clonar repositorio.</H2>
-  <span>
-    Clona un repositorio en un directorio nuevo creado, crea ramas de seguimiento remoto para cada rama en el repositorio clonado (visibles usando git 
-    branch --remotes), y crea y hace check-out en una rama inicial que es bifurcada de la rama actualmente activa del repositorio clonado.
-  </span>
-
-    git  clone 
-  <p>
-    crea una copia local de un proyecto que ya existe remotamente. El clon incluye todos los archivos, historial y ramas del proyecto
-  </p>
-
-- Observa la imagen:
-  <img src="https://github.com/LederDev/Git-to-GitHub-/assets/162763730/76a9ad7d-dcb3-4792-9a33-9fd50134a13c">
-</div>
-
 <div>
   <h2>Estado de tus Archivos.</h2>
   <span>
@@ -190,7 +174,7 @@
 
     git status
 - Observa la imagen:
-<img src="https://github.com/LederDev/Git-to-GitHub-/assets/162763730/1c6950ae-754f-4ba6-8c51-f0a8af54fe3d">
+<img src="https://github.com/Lederdevs/Git-to-GitHub/assets/165498615/ee9ab3ef-d96f-4747-a500-e05c30e9cb30">
   <span>
     muestra el estado de los cambios como sin seguimiento, modificados o almacenados provisionalmente.
   </span>
@@ -229,7 +213,7 @@
 
      git add .
 - Observa la imagen:
-  <img src="https://github.com/LederDev/Git-to-GitHub-/assets/162763730/5a253c44-3bd5-456c-8d3e-f0ea62265142">
+  <img src="https://github.com/Lederdevs/Git-to-GitHub/assets/165498615/3d3d9380-85d6-45d3-915d-5c5dd61d8d7d">
  <p>Este comando podemos arastrar todos los archivos que contega  el directorio a traves de  git, al realizar un git status podemos confirmar que todos 
  nuestro archivos estan siendo restrado por git.</p>
 - Observa la imagen:
